@@ -12,4 +12,4 @@ const breakText = (fullString) => {
     return objLetter
 }
 
-console.log(breakText('Input a Sample Text Here'))
+console.log(breakText('Insira o seu texto aqui'))
